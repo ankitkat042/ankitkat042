@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 🐈
 
 <!--
 **ankitkat042/ankitkat042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My favorite developer: [@hyouteki](https://github.com/hyouteki)
+- My favorite twitter user: [@BLUEBERRY4592](https://twitter.com/BLUEBERRY4592)
+- My favorite youtuber: [@OutdoorBoys](https://www.youtube.com/@OutdoorBoys) 
+- 
