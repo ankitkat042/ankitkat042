@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My favorite developer: [@hyouteki](https://github.com/hyouteki)
-- My favorite twitter user: [@BLUEBERRY4592](https://twitter.com/BLUEBERRY4592)
-- My favorite youtuber: [@OutdoorBoys](https://www.youtube.com/@OutdoorBoys) 
-- 
+- moving on
